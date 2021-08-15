@@ -1,0 +1,7 @@
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\bin\Debug\Lab3TP1.exe.config
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\bin\Debug\Lab3TP1.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\bin\Debug\Lab3TP1.pdb
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\obj\Debug\Lab3TP1.csproj.AssemblyReference.cache
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\obj\Debug\Lab3TP1.csproj.CoreCompileInputs.cache
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\obj\Debug\Lab3TP1.exe
+E:\Documentos\Academico\Programacion\Tecnicatura\ProyectosVS\Lab3TP1\obj\Debug\Lab3TP1.pdb
